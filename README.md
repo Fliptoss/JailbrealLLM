@@ -1,7 +1,3 @@
-Here's a **README.md** draft for your **JailBreakLLM** project on GitHub, based on the content from your report:
-
----
-
 # 🚨 JailBreakLLM
 An Effective Fine-Tuned LLaMa Model Designed to Jailbreak OpenAI GPT-4o
 
